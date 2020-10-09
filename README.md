@@ -1,2 +1,2 @@
-# RSA-demo
+# RSA_demo
 A JAVA application to generated RSA keys and encrypt/decrypt messages.
