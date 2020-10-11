@@ -65,7 +65,7 @@ public class RSA_interface {
         try {
             keyDict = new keyPair(dir);
         } catch (IOException e) {
-            System.out.println("No available key.txt file found or current file is broken.");
+            System.out.println("No available keys.txt file found or current file is broken.");
             throw e;
         }
         return keyDict;
